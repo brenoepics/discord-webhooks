@@ -25,6 +25,7 @@ The first thing to do is to create either a `WebhookClient` or a `WebhookCluster
 
 ### Creating a WebhookClient
 
+
 ```java
 // Using the builder
 WebhookClientBuilder builder = new WebhookClientBuilder(url); // or id, token
